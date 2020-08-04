@@ -1,0 +1,22 @@
+{
+    "name": "course",
+    "version": "1.0.0",
+    "description": "js",
+    "main": "webpack.config.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "webpack",
+        "build": "webpack --mode production"
+    },
+    "keywords": [
+        "js",
+        "javascript"
+    ],
+    "author": "Vrublevsky",
+    "license": "ISC",
+    "private": "true",
+    "devDependencies": {
+        "webpack": "^4.44.1",
+        "webpack-cli": "^3.3.12"
+    }
+}
